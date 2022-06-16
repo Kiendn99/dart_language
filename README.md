@@ -1,2 +1,1 @@
-# dart_language
- 
+Trong lập trình máy tính, mẫu async / await là một tính năng cú pháp của nhiều ngôn ngữ lập trình cho phép một hàm bất đồng bộ, non-blocking được cấu trúc theo cách tương tự như một hàm đồng bộ thông thường
